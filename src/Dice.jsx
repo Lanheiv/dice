@@ -1,4 +1,3 @@
-import "./Dice.css";
 import { useState } from "react";
 
 import dice1 from "./assets/dice/dice-1.svg";
