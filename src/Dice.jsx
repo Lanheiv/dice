@@ -18,7 +18,7 @@ function Dice() {
     }
 
     return (
-        <article class="dice"> 
+        <article class="box"> 
             <h2>Metamais kauliņš</h2>
             <button onClick={rollDice}>Mest</button> <br />
             <img
