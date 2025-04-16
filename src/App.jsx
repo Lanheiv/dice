@@ -1,6 +1,8 @@
 import Dice from "./Dice";
 import Coin from "./Coin";
 
+import "./App.css";
+
 function App() {
   return (
     <>
