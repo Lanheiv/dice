@@ -1,5 +1,6 @@
 import Dice from "./Dice";
 import Coin from "./Coin";
+import Flower from "./Flower";
 
 function App() {
   return (
@@ -7,6 +8,7 @@ function App() {
       <h1>Gājienu palīgs</h1>
       <Dice />
       <Coin />
+      <Flower />
     </>
   )
 }
